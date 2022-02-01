@@ -1,5 +1,7 @@
-Laura Cornwell - *Python and C++* | *Intermediate Programming* | *IT and Networking* | *Student at Portland State University*
---------------
+Laura Cornwell
+==============
+*Python and C++* | *Intermediate Programming* | *IT and Networking* | *Student at Portland State University*
+------------------------------------------------------------------------------------------------------------
 - 👋 Hey. My projects oftent carry the signature **Auralynn**, but you can also call me ***Laura***. 
 - 👀 I’m interested in ... Python, C++, LaTeX, agent-based modeling, machine learning, Linux, security, and ethical hacking.
 - 🌱 I’m currently learning ... C++ and Data Abstraction, LaTex, Kali Linux.
