@@ -4,7 +4,7 @@ Laura Cornwell Engram
 
 - 👋 Hi! My projects often carry the signature **Aura** or **Auralynn**, but you can also call me ***Laura***. 
 - 👀 I’m interested in ... Python, C++, LaTeX, agent-based modeling, machine learning, Linux, security, and ethical hacking.
-- 🌱 I’m currently learning ... C++ and Programming Systems, data science, security, Kali Linux.
+- 🌱 I’m currently learning ... C++ and Programming Systems, security and networking, principles of AI.
 - 💞️ I’m looking to collaborate on ... Python and bash projects, networking security projects. Other than that, it's mostly coursework. Feel free to reach out. I've always got something going on.
 - 📫 How to reach me ... email 4uralynn@protonmail.com, or Discord: blueoceanaura#2910
 
