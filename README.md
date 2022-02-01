@@ -1,4 +1,4 @@
-<p style="text-align: center;">**Laura Cornwell**</p>
+<p font="bold" style="text-align: center;">**Laura Cornwell**</p>
 
 <p style="text-align: center;">***Python and C++*** *|* ***Intermediate Programming*** **|** ***IT and Networking*** **|** ***Student at Portland State University***</p>
 
