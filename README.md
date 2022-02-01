@@ -1,4 +1,4 @@
-<p style="text-align: center;"><font size="3"><b>Laura Cornwell</b></font></p>
+<p style="text-align: center;"><font size="5"><b>Laura Cornwell</b></font></p>
 
 <p style="text-align: center;"><font size="3"><b><i>Python and C++ | Intermediate Programming | IT and Networking | Student at Portland State University</i></b></font></p>
 
