@@ -1,6 +1,6 @@
 Laura Cornwell Engram
 ----------------------
-<p style="text-align: center;"><font size="4"><b><i>Python and C++ | Intermediate Programming | IT and Networking | Student at Portland State University</i></b></font></p>
+<p style="text-align: center;"><font size="4"><b><i>Python and C++ | Programming | IT and Networking | Student at Portland State University</i></b></font></p>
 
 - 👋 Hi! My projects often carry the signature **Aura** or **Auralynn**, but you can also call me ***Laura***. 
 - 👀 I’m interested in ... Python, C++, LaTeX, agent-based modeling, machine learning, Linux, security, and ethical hacking.
